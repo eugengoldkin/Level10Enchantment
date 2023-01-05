@@ -6,7 +6,7 @@
 
     <groupId>Level10Enchantment</groupId>
     <artifactId>Level10Enchantment</artifactId>
-    <version>1.19.3-SNAPSHOT</version>
+    <version>1.19.3</version>
     <packaging>jar</packaging>
 
     <name>Level10Enchantment</name>
