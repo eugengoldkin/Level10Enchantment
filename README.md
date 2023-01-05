@@ -3,7 +3,10 @@
 Level10Enchantment is a Minecraft server plugin for Bukkit/Spigot with the purpose to increase the level cap of enchantments by combining two items on an anvil.
 For example if you combine two diamond pickaxes, each with Efficiency V, you get a pickaxe with Efficiency VI.
 
-Level10Enchantment has been tested on `Minecraft 1.19.1` using Spigot and Paper
+Level10Enchantment has been tested on the following Minecraft versions using Spigot or Paper:
+- `Minecraft 1.19`, `Minecraft 1.19.1`, `Minecraft 1.19.2`, `Minecraft 1.19.3`
+
+You can download those version from the folder `Level10Enchantment/out/versions`.
 
 This mod is loosely based on `https://github.com/koenrad/VanillaEnchants` by koenrad
 
@@ -18,7 +21,8 @@ But since he stopped maintaining it, I decided to make my own plugin with Blackj
 
 The mechanics should stay mostly the same:
 - `Enchantment level L` + `Enchantment level L` => `Enchantment level L+1`
-- Max Enchantment level is capped by either 10 or some other useful value (<10).
+- Max Enchantment level is capped by either 10 or some other useful value (<10). 
+The Wikipage https://minecraft.fandom.com/wiki/Enchanting#Maximum_effective_values_for_enchantments should give some hints regarding this topic. 
 - Enchantment Compatibility gets verified (No Efficiency on a helmet or Luck on an earth block)
 - Mutual exclusivity gets verified (No infinity + mending)
 - The item in the left slot will always be the resulting item. This allows players to put enchants into a book.
