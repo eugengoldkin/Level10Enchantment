@@ -84,3 +84,14 @@ Yes you can.
 ### I found a bug!
 
 Then kill it! Or eat it to get the protein!
+
+### What happens to the items should the plugin happen to be deactivated again?
+
+The created items will work like nothing happened. The plugin has no impact on that. Additionally, once the plugin is 
+deactivated it will send out a message to the nearest assassins guild setting a bounty on your head.
+I wish you good luck!
+
+### Why is this project/the code slightly chaotic?
+
+Because one day after New Years Eve I got a cold and a headache. 
+So I decided to finally learn how to make Minecraft plugins and create this plugin while being in a delirium.
