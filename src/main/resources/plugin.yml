@@ -1,0 +1,5 @@
+name: Level10Enchantment
+version: '${project.version}'
+main: level10enchantment.level10enchantment.Level10Enchantment
+api-version: 1.19
+authors: [ EugenGoldkin ]
