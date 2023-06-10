@@ -4,7 +4,7 @@ Level10Enchantment is a Minecraft server plugin for Bukkit/Spigot with the purpo
 For example if you combine two diamond pickaxes, each with Efficiency V, you get a pickaxe with Efficiency VI.
 
 Level10Enchantment has been tested on the following Minecraft versions using Spigot or Paper:
-- `Minecraft 1.19`, `Minecraft 1.19.1`, `Minecraft 1.19.2`, `Minecraft 1.19.3`
+- `Minecraft 1.19`, `Minecraft 1.19.1`, `Minecraft 1.19.2`, `Minecraft 1.19.3`, `Minecraft 1.19.4`
 
 You can download those version from the folder `Level10Enchantment/out/versions`.
 
