@@ -25,8 +25,8 @@ The mechanics should stay mostly the same:
 The Wikipage https://minecraft.fandom.com/wiki/Enchanting#Maximum_effective_values_for_enchantments should give some hints regarding this topic. 
 - Enchantment Compatibility gets verified (No Efficiency on a helmet or Luck on an earth block)
 - Mutual exclusivity gets verified (No infinity + mending)
-- The item in the left slot will always be the resulting item. This allows players to put enchants into a book.
-- The cost of combining enchants is equal to the sum total of all levels on the resulting item.
+- The item in the left slot will always be the resulting item. This allows you to put enchantments of an item into a book.
+- The cost of combining enchants is mostly equal to the sum total of all levels on the resulting item.
     - Ex: Book 1 has Looting IV, Book 2 has Power II, the cost to combine them would be (4 + 2) = 6
     - If the item gets repaired the cost is increased by 1
     - I took that idea from koenrad (see `https://github.com/koenrad/VanillaEnchants`)
@@ -72,7 +72,6 @@ No configuration needed! I'm lazy and so shall be you!
 
 ## Known Issues/Idiosyncrasies
 - The repair costs cap of 40 levels is ignored (I like it that way)
-- If you shift click the resulting item, sometimes it will appear to have been duplicated (duplicate item disappears when interacting with it)
 - If you do something inappropriate, this will have consequences (item might disappear etc)
 - You can combine two stacks of stone to get one stack of stones! Yay!
 
