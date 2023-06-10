@@ -38,6 +38,7 @@ public class AnvilEnchantingUtil {
         result.put(Enchantment.ARROW_DAMAGE, 10);           //power
         result.put(Enchantment.PROTECTION_PROJECTILE, 10);  //projectile_protection
         result.put(Enchantment.PROTECTION_ENVIRONMENTAL, 10);//protection
+        result.put(Enchantment.PROTECTION_EXPLOSIONS, 10);  //explosion_protection
         result.put(Enchantment.DAMAGE_ALL, 10);             //sharpness
         result.put(Enchantment.DAMAGE_UNDEAD, 10);          //smite
         result.put(Enchantment.QUICK_CHARGE, 5);            //quick_charge
